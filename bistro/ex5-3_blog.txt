@@ -1,31 +1,44 @@
-The Black Goose Blog
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>The Black Goose Blog</title>
+    <h1>The Black Goose Blog</h1>
 
-Home
-Menu
-Blog
-Contact
+  </head>
+  <body>
+  <li>Home</li>
+  <li>Menu</li>
+  <li>Blog</li>
+  <li>Contact</li>
+<h2>Summer Menu items</h2>
+<p>posted by <b>BGB</b>, <datetime>June 15, 2013</datetime></p>
+<p>Our chef has been busy putting together the perfect menu for the summer months. Stop by to try these appetizers and main courses while the days are still long.</p>
+
+<h3>Appetizers</h3>
+<p><b>Black Bean Purses</b>
+<li>Spicy black bean and a blend of mexican cheeses wrapped in sheets of phyllo and baked until golden. <i>$3.95</i></li>
+
+<p><b>Southwestern Napoleons with Lump Crab-<i>New Item</i></p></b>
+<li>Layers of light lump crab meat, bean and corn salsa, and our handmade flour tortillas. <i>$7.95</i></li>
+
+<h4>Main Courses</h4>
+<p><b>Shrimp Sate Kebabs with Peanut Sauce</p></b>
+<li>Skewers of shrimp marinated in lemongrass, garlic, and fish sauce then grilled to perfection. Served with spicy peanut sauce and jasmine rice. <i>$12.95</i></li>
+<p>
+<p><b>Jerk Rotisserie Chicken with Fried Plantains -- NEW ITEM!</p></b></p>
+
+<li>Tender chicken slow-roasted on the rotisserie, flavored with spicy and fragrant jerk sauce and served with fried plantains and fresh mango. <i>$12.95</i></li></p>
+<p><i>Low and Slow posted by BGB,</i>
+<datetime>November 15, 2012:</datetime></p>
+<p><q>This week I am <em>extremely</em> excited about a new cooking technique called <dfn><i>sous vide</i></dfn>. In <i>sous vide</i> cooking, you submerge the food (usually vacuum-sealed in plastic) into a water bath that is precisely set to the target temperature of the food. In his book, <cite>Cooking for Geeks</cite>, Jeff Potter describes it as <q>ultra-low-temperature poaching</q>.</p>
+<p>Next month, we will be serving <b>Sous Vide Salmon with Dill Hollandaise</b>. To reserve a seat at the chef table, contact us before <b>November 30</b>.</p>
 
 
 
-Summer Menu Items
-posted by BGB, June 15, 2013Our chef has been busy putting together the perfect menu for the summer months. Stop by to try these appetizers and main courses while the days are still long.
+<br>Location: Baker's Corner, Seekonk, MA
+<p>Hours: Tuesday to Saturday, 11am to midnight</p>
+<small><i>All content copyright 2012, Black Goose Bistro and Jennifer Robbins</small></i>
 
-AppetizersBlack bean pursesSpicy black bean and a blend of mexican cheeses wrapped in sheets of phyllo and baked until golden. $3.95
-
-Southwestern napoleons with lump crab -- new item!Layers of light lump crab meat, bean and corn salsa, and our handmade flour tortillas. $7.95
-
-Main courses
-Shrimp sate kebabs with peanut sauceSkewers of shrimp marinated in lemongrass, garlic, and fish sauce then grilled to perfection. Served with spicy peanut sauce and jasmine rice. $12.95Jerk rotisserie chicken with fried plantains -- new item!Tender chicken slow-roasted on the rotisserie, flavored with spicy and fragrant jerk sauce and served with fried plantains and fresh mango. $12.95
-
-
-Low and Slow
-posted by BGB, November 15, 2012<p>This week I am <em>extremely</em> excited about a new cooking technique called <dfn><i>sous vide</i></dfn>. In <i>sous vide</i> cooking, you submerge the food (usually vacuum-sealed in plastic) into a water bath that is precisely set to the target temperature of the food. In his book, <cite>Cooking for Geeks</cite>, Jeff Potter describes it as <q>ultra-low-temperature poaching</q>.</p><p>Next month, we will be serving <b>Sous Vide Salmon with Dill Hollandaise</b>. To reserve a seat at the chef table, contact us before November 30.</p>
-
-
-
-Location: Baker's Corner, Seekonk, MA
-Hours: Tuesday to Saturday, 11am to midnight
-
-All content copyright 2012, Black Goose Bistro and Jennifer Robbins
-
-
+  </body>
+</html>
